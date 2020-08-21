@@ -3,13 +3,7 @@
 //
 //  Created by naver on 2017/7/27.
 //  Copyright © 2017年 naver. All rights reserved.
-//  C2
-//  A1
-//  A
-//  B
-//  C
-//  D 1
-//  D2
+
 #import "OCClass.h"
 #import "HunheBianYiDemo-Swift.h"
 #import "OCClass.h"
