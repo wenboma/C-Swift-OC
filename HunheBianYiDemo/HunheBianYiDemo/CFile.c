@@ -14,6 +14,7 @@ void testSwiftUC(){
 }
 void testOCUC(){
     printf("这是OC调用c的打印\n");
+    printf("test");
 }
 
 void testCUOC(){
